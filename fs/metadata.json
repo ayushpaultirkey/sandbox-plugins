@@ -1,0 +1,9 @@
+{
+    "id": "fs",
+    "name": "fs",
+    "repository": {
+        "url": "https://github.com/ayushpaultirkey/sandbox-plugins",
+        "path": "fs",
+        "branch": "master"
+    }
+}
