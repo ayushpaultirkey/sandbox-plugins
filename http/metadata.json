@@ -1,12 +1,9 @@
 {
-    "id": "fs",
-    "name": "fs",
+    "id": "http",
+    "name": "http",
     "repository": {
         "url": "https://github.com/ayushpaultirkey/sandbox-plugins",
-        "path": "fs",
+        "path": "http",
         "branch": "master"
-    },
-    "dependencies": [
-        "http"
-    ]
+    }
 }
